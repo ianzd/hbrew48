@@ -1,0 +1,22 @@
+hbrew48
+Ian Dotson <izdotson@gmail.com>
+
+Homebrewing calculators for the HP48.
+
+ABV
+In
+2: Original gravity [1.069]
+1: Final gravity [1.014]
+Out
+1: ABV [7.2]
+
+H
+Hydrometer temperation correction
+2: Hydrometer reading [1.069]
+1: Temperature of sample in F [70]
+Out
+1: Corrected gravity [1.071]
+
+SG60
+Helper for H
+
